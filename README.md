@@ -1,5 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
-<a href="https://github.com/NobodyyOn"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=27&duration=3000&pause=800&color=DC5FAC&background=1A06104B&center=true&vCenter=true&repeat=false&width=800&height=55&lines=%C2%A1Hey+there!+%F0%9F%91%8B%E2%89%A7%E2%97%89%E1%B4%A5%E2%97%89%E2%89%A6+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
+<a href="https://github.com/NobodyyOn"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=27&duration=3000&pause=800&color=DC5FAC&background=1A06104B&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%C2%A1Hey+there!+%F0%9F%91%8B%E2%89%A7%E2%97%89%E1%B4%A5%E2%97%89%E2%89%A6+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
 <a href="https://github.com/NobodyyOn"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&pause=800&color=FFFFFF&width=500&height=40&lines=I'm+Johan+%E2%98%9C%E2%80%AF(+%CD%A1%E2%9D%9B%E2%80%AF%CD%9C%CA%96+%CD%A1%E2%9D%9B);%3CDev+in+process%3E" alt="Typing SVG" /></a>
 
