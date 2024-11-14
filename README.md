@@ -37,11 +37,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyyOn&theme=material-palenight&hide_border=true" />
-  </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyyOn&theme=material-palenight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
