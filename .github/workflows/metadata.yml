@@ -1,0 +1,25 @@
+
+index: 0
+supports:
+  - user
+scopes:
+  - public_access
+inputs:
+
+  plugin_isocalendar:
+    description: |
+      Enable isocalendar plugin
+    type: boolean
+    default: no
+
+  plugin_isocalendar_duration:
+    description: |
+      Time range
+
+      - `half-year`: 180 days
+      - `full-year`: 1 year
+    type: string
+    default: half-year
+    values:
+      - half-year
+      - full-year
