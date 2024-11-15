@@ -36,11 +36,22 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyyOn&theme=material-palenight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyyOn&theme=material-palenight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyyOn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--🦶FOOTER--> 
